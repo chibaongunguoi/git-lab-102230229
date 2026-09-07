@@ -7,3 +7,7 @@
 - Họ tên:
 - MSSV:
 - Lớp:
+
+## Mục tiêu
+
+Tìm hiểu Git và GitHub.
