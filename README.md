@@ -4,9 +4,10 @@
 
 ## Thông tin sinh viên
 
-- Họ tên:
-- MSSV:
-- Lớp:
+- Họ tên: Nguyễn Chí Bảo
+- MSSV: 102230229
+- Lớp: 23T_DT2
+- GitHub: chibaongunguoi
 
 ## Mục tiêu
 
